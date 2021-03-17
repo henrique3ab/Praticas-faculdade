@@ -1,0 +1,13 @@
+C:\C#\Media de notas\Media de notas\bin\Debug\netcoreapp3.1\Media de notas.exe
+C:\C#\Media de notas\Media de notas\bin\Debug\netcoreapp3.1\Media de notas.deps.json
+C:\C#\Media de notas\Media de notas\bin\Debug\netcoreapp3.1\Media de notas.runtimeconfig.json
+C:\C#\Media de notas\Media de notas\bin\Debug\netcoreapp3.1\Media de notas.runtimeconfig.dev.json
+C:\C#\Media de notas\Media de notas\bin\Debug\netcoreapp3.1\Media de notas.dll
+C:\C#\Media de notas\Media de notas\bin\Debug\netcoreapp3.1\Media de notas.pdb
+C:\C#\Media de notas\Media de notas\obj\Debug\netcoreapp3.1\Media de notas.csprojAssemblyReference.cache
+C:\C#\Media de notas\Media de notas\obj\Debug\netcoreapp3.1\Media de notas.AssemblyInfoInputs.cache
+C:\C#\Media de notas\Media de notas\obj\Debug\netcoreapp3.1\Media de notas.AssemblyInfo.cs
+C:\C#\Media de notas\Media de notas\obj\Debug\netcoreapp3.1\Media de notas.csproj.CoreCompileInputs.cache
+C:\C#\Media de notas\Media de notas\obj\Debug\netcoreapp3.1\Media de notas.dll
+C:\C#\Media de notas\Media de notas\obj\Debug\netcoreapp3.1\Media de notas.pdb
+C:\C#\Media de notas\Media de notas\obj\Debug\netcoreapp3.1\Media de notas.genruntimeconfig.cache

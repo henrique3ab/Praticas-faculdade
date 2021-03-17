@@ -1,0 +1,12 @@
+C:\C#\Temperatura\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.exe
+C:\C#\Temperatura\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.deps.json
+C:\C#\Temperatura\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.runtimeconfig.json
+C:\C#\Temperatura\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.runtimeconfig.dev.json
+C:\C#\Temperatura\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.dll
+C:\C#\Temperatura\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.pdb
+C:\C#\Temperatura\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.AssemblyInfoInputs.cache
+C:\C#\Temperatura\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.AssemblyInfo.cs
+C:\C#\Temperatura\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.csproj.CoreCompileInputs.cache
+C:\C#\Temperatura\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.dll
+C:\C#\Temperatura\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.pdb
+C:\C#\Temperatura\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.genruntimeconfig.cache
